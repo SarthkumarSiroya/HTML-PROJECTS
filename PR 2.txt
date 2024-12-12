@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <title>HTML Example with Formatting</title> 
+    <style> 
+        body { 
+            font-family: Berlin Sans FB; 
+            background-color: Red; 
+            color: Yellow; 
+        } 
+    </style> 
+</head> 
+<body> 
+    <h1>HTML Example with Formatting</h1> 
+    <p>This is a paragraph demonstrating various formatting tags:</p> 
+    <p><strong>Bold text</strong>, <em>italic text</em>, <u>underlined text</u>, and <mark>highlighted text</mark>.</p> 
+    <p>Here is an example of <sup>superscript</sup> and <sub>subscript</sub> text.</p> 
+
+    <h2>Ordered List</h2> 
+    <ol> 
+        <li>First item</li> 
+        <li>Second item</li> 
+        <li>Third item</li> 
+    </ol> 
+
+    <h2>Unordered List</h2> 
+    <ul> 
+        <li>First item</li> 
+        <li>Second item</li> 
+        <li>Third item</li> 
+    </ul> 
+</body> 
+</html>
